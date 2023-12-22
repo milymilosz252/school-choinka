@@ -35,8 +35,12 @@ Program instalacyjny dla bibliotek sprawdza, czy wszystkie potrzebne biblioteki 
     ```
 
 ## Uwaga
-1. Upewnij się, że masz zainstalowanego Pythona przed uruchomieniem programu instalacyjnego dla bibliotek.
-2. Plik README.md został wygenerowany przez ChatGPT https://chat.openai.com/.
-**Autor:** Miłosz Kieroński
+Upewnij się, że masz zainstalowanego Pythona przed uruchomieniem programu instalacyjnego dla bibliotek.
+
+**Autor:** Twój Autor
 
 **Data:** 2023-12-22
+
+---
+
+*Ten plik README został wygenerowany automatycznie przez ChatGPT. [Link do czatu.](https://chat.openai.com/)*
