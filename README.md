@@ -37,7 +37,7 @@ Program instalacyjny dla bibliotek sprawdza, czy wszystkie potrzebne biblioteki 
 ## Uwaga
 Upewnij się, że masz zainstalowanego Pythona przed uruchomieniem programu instalacyjnego dla bibliotek.
 
-**Autor:** Twój Autor
+**Autor:** Miłosz Kieroński
 
 **Data:** 2023-12-22
 
