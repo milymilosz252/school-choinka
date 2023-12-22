@@ -40,4 +40,4 @@ Upewnij się, że masz zainstalowanego Pythona przed uruchomieniem programu inst
 **Autor:** Miłosz Kieroński
 
 **Data:** 2023-12-22
-**Plik readme został wygenerowany przez ChatGPT https://chat.openai.com/**
+##Plik readme został wygenerowany przez ChatGPT https://chat.openai.com/
