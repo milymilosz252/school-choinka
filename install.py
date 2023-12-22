@@ -1,4 +1,3 @@
-
 import subprocess
 
 def install_dependencies():
