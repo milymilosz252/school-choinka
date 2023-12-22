@@ -36,8 +36,7 @@ Program instalacyjny dla bibliotek sprawdza, czy wszystkie potrzebne biblioteki 
 
 ## Uwaga
 Upewnij się, że masz zainstalowanego Pythona przed uruchomieniem programu instalacyjnego dla bibliotek.
-
+Plik readme został wygenerowany przez ChatGPT https://chat.openai.com/
 **Autor:** Miłosz Kieroński
 
 **Data:** 2023-12-22
-##Plik readme został wygenerowany przez ChatGPT https://chat.openai.com/
